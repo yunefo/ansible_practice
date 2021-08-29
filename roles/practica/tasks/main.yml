@@ -1,0 +1,7 @@
+---
+# tasks file for practica
+#
+- name: Update OS
+  yum:
+    name: '*'
+    state: latest
