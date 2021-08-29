@@ -1,0 +1,4 @@
+[AWS]
+3.131.151.147 	ansible_ssh_private_key_file=~/ckey
+3.15.39.208 	ansible_ssh_private_key_file=~/ckey
+52.14.251.42 	ansible_ssh_private_key_file=~/ckey
